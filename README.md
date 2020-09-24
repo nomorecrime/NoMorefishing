@@ -1,2 +1,37 @@
-# NoMorefishing
-피싱[Fish]이란 개인정보(Private data)와 낚시(Fishing)의 합성어로, ① 딸, 아들, 사촌, 지인, 금융기관을 가장한 문자&amp;카카오톡 발송 ② 신분증, 카드번호, 인증번호 요구 ③ 피해자 명의의 새로운 대포폰, 대포통장 개설 ④ 피해자 명의의 대출실행 &amp; 카드론 등 새로운 재산피해 발생 ⑤ 피해자 명의, 계좌를 새로운 범행에 이용
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/nomorecrime/NoMorefishing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nomorecrime/NoMorefishing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
