@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## '엄마.. 나 핸드폰이 고장나서..'라는 카톡이 왔다면?! 지인을 사칭한 피싱 사기를 의심!! 
 
-You can use the [editor on GitHub](https://github.com/nomorecrime/NoMorefishing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+내 **주민등록증**, **운전면허증**을 다른 사람에게 찍어서 보냈다면? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 첫째, 내 명의로 **"대포폰"** 개설되어있는지 확인
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[엠세이퍼](https://www.msafer.or.kr)https://www.msafer.or.kr
 
-```markdown
-Syntax highlighted code block
+### 둘째, 다른 은행에 내 명의로 **"대포통장"**이 개설되어 있는지 확인하기
 
-# Header 1
-## Header 2
-### Header 3
+[내계좌찾기](https://www.payinfo.or.kr)https://www.payinfo.or.kr
 
-- Bulleted
-- List
+### 셋째, 내가 모르게 내 정보로 **"웹사이트 가입"**되어있는지 확인하기
 
-1. Numbered
-2. List
+[e프라이버시](https://www.eprivacy.go.kr)https://www.eprivacy.go.kr
 
-**Bold** and _Italic_ and `Code` text
+### 넷째, 나도 모르게 내 개인정보로 **"대출이 발생"**되었는지 확인하기
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nomorecrime/NoMorefishing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[NICE신용지키미])(https://www.credit.co.kr)(일부유료)https://www.credit.co.kr
